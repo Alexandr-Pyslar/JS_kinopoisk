@@ -31,6 +31,6 @@ function requestApi(url){
         })
         movie.innerHTML = inner;
     });
-
 }
+// test
 
